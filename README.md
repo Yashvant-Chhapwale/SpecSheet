@@ -198,10 +198,6 @@ Usage and integration are permitted under the included license agreement, but re
 
 # Discussions and Suggestions
 
-📌 Share your **feedback**, **ideas**, and **feature** suggestions here:
-<div align="center">
-   
-[`To Discussions Page 🚀`](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)
-</div>
+📌 Share your **feedback**, **ideas**, and **feature** suggestions here: [`To Discussions Page 🚀`](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)
 
 ---
