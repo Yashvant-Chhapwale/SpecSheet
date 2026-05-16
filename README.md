@@ -153,7 +153,7 @@ Instantly generate `.xlsx` output files for documentation and analysis workflows
 [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
 
 ### Sample OpenAPI YAML Link:
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.yaml)
+[https://petstore3.swagger.io/api/v3/openapi.yaml](https://petstore3.swagger.io/api/v3/openapi.yaml)
 <br>
 
 ---
