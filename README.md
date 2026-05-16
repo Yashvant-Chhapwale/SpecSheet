@@ -1,8 +1,8 @@
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/322f81b8-3629-43bf-bde9-f312df7b5823" alt="SpecSheet Logo" width="45%" height="10%">
+   <img src="https://github.com/user-attachments/assets/322f81b8-3629-43bf-bde9-f312df7b5823" alt="SpecSheet Logo" width="40%" height="10%">
 </div>
 
-<h1 align="center">SpecSheet — Swagger / OpenAPI to Excel Specification Extractor</h1>
+<h1 align="center">SpecSheet — Swagger / OpenAPI to Excel Converter</h1>
 
 <p align="center">
   A Lightweight GUI-Based <b>Swagger</b> and <b>OpenAPI Specification Extractor</b> for converting API schemas into structured <b>Excel Sheets</b>.
