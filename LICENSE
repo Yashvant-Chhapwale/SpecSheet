@@ -1,13 +1,68 @@
-SpecSheet Proprietary License
+SPEC SHEET SOFTWARE LICENSE
 
-Copyright (c) 2026 Yashvant Chhapwale
+Copyright (c) 2026 Yashvant Chhapwale.
+All Rights Reserved.
 
-All rights reserved.
+---
+# 1. Introduction
 
-This repository is intended for public distribution, documentation, and demonstration purposes only.
+This license governs the use of SpecSheet, including its binaries, executables, command-line interfaces (CLI), installers, documentation, assets, and related materials (collectively referred to as the “Software”).
 
-The source code for SpecSheet is private and proprietary.
+The Software is distributed as closed-source proprietary software. Source code is not publicly provided.
 
-You may not copy, modify, redistribute, sublicense, reverse engineer, decompile, or commercially use any part of this software, binaries, assets, or documentation without explicit written permission from the author.
+---
+# 2. Ownership
 
-This software is provided "as is", without warranty of any kind.
+SpecSheet and all associated intellectual property rights remain the exclusive property of Yashvant Mangesh Chhapwale, including all official distributions and repositories published under the GitHub account "Yashvant-Chhapwale".
+
+This license does not transfer ownership of the Software or any related intellectual property.
+
+---
+# 3. Permitted Use
+
+Subject to the terms of this license, users may:
+* Install and use the Software for personal, educational, internal business, or commercial workflows;
+* Use officially distributed CLI or automation capabilities provided with the Software;
+* Integrate the Software into internal systems, pipelines, or workflows where supported;
+* Use generated outputs and exported files without restriction.
+
+---
+# 4. Restrictions
+
+Users may NOT:
+* Claim ownership or authorship of the Software;
+* Rebrand, rename, or redistribute the Software as another product;
+* Modify, reverse engineer, decompile, disassemble, or attempt to extract proprietary implementation details;
+* Redistribute, sublicense, sell, lease, or commercially host the Software without explicit written permission;
+* Remove copyright notices, branding, or attribution notices.
+
+---
+# 5. Distribution
+
+Official distributions of SpecSheet may only be provided by the author or explicitly authorized parties.
+
+Unauthorized redistribution of installers, binaries, modified packages, or mirrored distributions is prohibited.
+
+---
+# 6. Source Code
+
+The source code of SpecSheet is confidential and proprietary and is not included with this distribution unless explicitly stated otherwise.
+
+No rights to the source code are granted under this license.
+
+---
+# 7. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+---
+# 8. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+# 9. Governing Law
+
+This license shall be governed by and interpreted in accordance with the laws of India.
+
+---
