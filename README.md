@@ -49,10 +49,10 @@ SpecSheet helps eliminate the manual effort involved in reading raw OpenAPI file
 
 # Key Features
 
-## Swagger / OpenAPI to Excel Conversion
+### Swagger / OpenAPI to Excel Conversion
 Convert OpenAPI and Swagger specifications into structured Excel spreadsheets with a single click.
 
-## Structured API Documentation Export
+### Structured API Documentation Export
 Generate organized Excel sheets containing:
 * API endpoints
 * HTTP methods
@@ -61,22 +61,22 @@ Generate organized Excel sheets containing:
 * Endpoint descriptions
 * Request body schemas
 
-## OpenAPI JSON and YAML Support
+### OpenAPI JSON and YAML Support
 Supports both:
 * `.json`
 * `.yaml`
 Swagger/OpenAPI specification formats.
 
-## Lightweight GUI Application
+### Lightweight GUI Application
 Simple and intuitive graphical interface built using CustomTkinter.
 
-## Dark Mode and Light Mode
+### Dark Mode and Light Mode
 Switch between modern Dark and Light themes for visual comfort.
 
-## Zero Dependency Installation
+### Zero Dependency Installation
 No Python installation required for end users. Simply download the executable and run the application.
 
-## One-Click Excel Export
+### One-Click Excel Export
 Instantly generate `.xlsx` output files for documentation and analysis workflows.
 <br>
 
@@ -116,8 +116,6 @@ Instantly generate `.xlsx` output files for documentation and analysis workflows
 <img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Swagger OpenAPI" width="20%" height="30%" />
 </a>
 
-<br>
-
 <a href="https://github.com/TomSchimansky/CustomTkinter">
 <img src="https://github.com/user-attachments/assets/01c7d152-64d5-440a-95bc-3433dafd6876" alt="CustomTkinter GUI Library" width="20%" height="30%" />
 </a>
@@ -126,7 +124,7 @@ Instantly generate `.xlsx` output files for documentation and analysis workflows
 <img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Nuitka Python Compiler" width="20%" height="30%" />
 </a>
 
-<br><br>
+<br>
 
 <b>Click on a Tool to View its Documentation</b>
 
@@ -138,13 +136,13 @@ Instantly generate `.xlsx` output files for documentation and analysis workflows
 
 # GUI Snapshots
 
-## Dark Mode
+### Dark Mode:
 
 <img src="https://github.com/user-attachments/assets/ec6a7915-fb70-403d-adc3-2a0e21d58f27" alt="Swagger OpenAPI Excel Generator Dark Mode GUI" width="100%" height="50%" />
 
 <br>
 
-## Light Mode
+### Light Mode:
 
 <img src="https://github.com/user-attachments/assets/acd7f1f5-53c7-45f4-ae72-3b21cafc7cac" alt="Swagger OpenAPI Excel Generator Light Mode GUI" width="100%" height="50%" />
 
@@ -162,10 +160,10 @@ Instantly generate `.xlsx` output files for documentation and analysis workflows
 
 # Example OpenAPI Datasets
 
-## Sample OpenAPI JSON Link
+### Sample OpenAPI JSON Link:
 [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
 
-## Sample OpenAPI YAML Link
+### Sample OpenAPI YAML Link:
 [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.yaml)
 <br>
 
